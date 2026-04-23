@@ -98,7 +98,7 @@ The connector remained disconnected after the wizard completed. A full troublesh
 
 The setting was configured to send all Azure Activity log categories to the `entra-lab-ca` workspace. After saving, the connector updated to **Connected** status with logs confirmed as received. The final Sentinel Data connectors page showed **9 connectors, 9 connected**.
 
-![Azure Activity connector connected — 9 of 9 connectors connected](screenshots/03-azure-activity-connected.jpeg)
+![Azure Activity connector connected — 9 of 9 connectors connected](screenshots/03-azure-activity-connector.jpeg)
 
 ---
 
