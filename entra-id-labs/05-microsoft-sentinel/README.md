@@ -178,7 +178,7 @@ SigninLogs
 | order by FailedAttempts desc
 ```
 
-In a production environment this query surfaces accounts under active attack. In the lab it returned results corresponding to failed authentication attempts generated during testing across previous labs.
+In a production environment this query surfaces accounts under active attack. In the lab it returned 0 results.
 
 ![KQL Query 2 — failed sign-in attempts results](screenshots/05-kql-query2-failed-signins.jpeg)
 
