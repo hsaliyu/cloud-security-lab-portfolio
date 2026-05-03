@@ -6,8 +6,6 @@ This lab demonstrates the deployment and configuration of Microsoft Defender for
 
 This lab completes the hybrid detection pipeline established in Lab 06, where Microsoft Entra Connect was configured to synchronise on-premises AD users into Entra ID. With MDI now deployed, on-premises identity attacks that would previously have been invisible to cloud security tooling are now detected, investigated, and correlated with cloud identity events in a single unified platform.
 
-A significant portion of this lab involved troubleshooting the MDI licensing and auditing configuration — both of which reflect real-world challenges that security engineers encounter when deploying MDI in enterprise environments. These are documented in full as they demonstrate practical problem-solving ability beyond the standard deployment guide.
-
 ---
 
 ## Objectives
