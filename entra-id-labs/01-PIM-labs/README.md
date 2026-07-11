@@ -55,7 +55,7 @@ Created a test user account in Entra ID to simulate a standard employee who requ
 
 ### Step 3 — Assign an Eligible Role
 
-Assigned the **Security Reader** role to the test user as an **Eligible** assignment rather than Active. This means the user does not hold the role permanently — they must explicitly request and activate it each time access is needed, and that access expires automatically.
+Assigned the **Billing Administrator** role to the test user as an **Eligible** assignment rather than Active. This means the user does not hold the role permanently — they must explicitly request and activate it each time access is needed, and that access expires automatically.
 
 - Navigated to **PIM → Microsoft Entra Roles → Roles**
 - Selected **Billing Administrator**
